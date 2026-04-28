@@ -25,3 +25,16 @@ const edad4 = prompt("Ingresa la edad de la persona 4:");
 const promedio = (Number(edad1) + Number(edad2) + Number(edad3) + Number(edad4)) / 4;
 
 console.log(`El promedio de edad de las 4 personas es: ${promedio} años.`);
+
+
+
+/* Punto 4 de la guia de javascript (D) */
+
+
+const kmRecorridos = prompt("¿Cuántos kilómetros recorriste?");
+const consumoPorKm = prompt("¿Cuál es el consumo por kilómetro (litros/km)?");
+
+
+const litrosTotales = Number(kmRecorridos) * Number(consumoPorKm);
+
+console.log(`Para recorrer ${kmRecorridos} km, el consumo total es de ${litrosTotales.toFixed(2)} litros.`);
