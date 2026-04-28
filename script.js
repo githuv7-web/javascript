@@ -28,7 +28,7 @@ console.log(`El promedio de edad de las 4 personas es: ${promedio} años.`);
 
 
 
-/* Punto 4 de la guia de javascript (D) */
+/* Punto 4 de la guia de javascript (D). */
 
 
 const kmRecorridos = prompt("¿Cuántos kilómetros recorriste?");
