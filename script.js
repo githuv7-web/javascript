@@ -39,7 +39,7 @@ let nota2 = Number(prompt("ESCRIBE LA TERCERA NOTA "));
 let totall = nota + nota1 + nota2 ;
 let promedioo = total / 3 ;
 
-alert("SU PROMEDIO DE LAS TRES NOTAS ES " + promedio );
+alert("SU PROMEDIO DE LAS TRES NOTAS ES " + promedioo );
 
 
 //CONVERSOR DE MONEDA COLOMBIANA A DOLARES //
